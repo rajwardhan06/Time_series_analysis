@@ -1,4 +1,4 @@
-# Time_series_analysis:
+# Time Series Analysis:
 
 A stocks price validation in python for identifying the nature(white
 noise, random walk, stationarity, seasonality) of time series
